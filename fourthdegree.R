@@ -1,4 +1,4 @@
-data<-read.csv("C:/Users/Hari Priya/Desktop/statdatafile.csv")
+data<-read.csv("statdatafile.csv")
 attach(data)
 l<-nrow(data)
 x<-c(1:l)
